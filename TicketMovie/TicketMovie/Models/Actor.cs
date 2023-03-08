@@ -13,5 +13,7 @@ namespace TicketMovie.Models
         public string ProfilePictureUrl { get; set; }
         public string Name { get; set; }
         public string Bio { get; set; }
+        //relationship
+        public List<Actor_Movie> Actor_Movies { get; set; }
     }
 }

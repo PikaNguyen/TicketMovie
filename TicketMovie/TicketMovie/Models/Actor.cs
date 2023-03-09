@@ -10,7 +10,7 @@ namespace TicketMovie.Models
     {
         [Key]
         public int Id { get; set; }
-        [Display(Name="Profile Picture URL")]
+        [Display(Name="Profile Picture")]
         public string ProfilePictureUrl { get; set; }
         [Display(Name="Full Name")]
         public string Name { get; set; }

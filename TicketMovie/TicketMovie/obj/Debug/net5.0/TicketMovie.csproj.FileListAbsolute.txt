@@ -70,3 +70,4 @@ D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\TicketMovie.dll
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\ref\TicketMovie.dll
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\TicketMovie.pdb
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\TicketMovie.genruntimeconfig.cache
+D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs

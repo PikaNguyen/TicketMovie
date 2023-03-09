@@ -10,8 +10,12 @@ namespace TicketMovie.Models
     {
         [Key]
         public int Id { get; set; }
+        [Display(Name="Profile Picture URL")]
         public string ProfilePictureUrl { get; set; }
+        [Display(Name="Full Name")]
         public string Name { get; set; }
+        [Display(Name = "Biography")]
+
         public string Bio { get; set; }
         //relationship
         public List<Actor_Movie> Actor_Movies { get; set; }

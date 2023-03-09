@@ -52,7 +52,7 @@ namespace TicketMovie.Data
                         {
                             Name = "Actor 1",
                             Bio = "Bio of Actor",
-                            ProfilePictureUrl=""
+                            ProfilePictureUrl="https://phantom-marca.unidadeditorial.es/5d566b5e0d46a2d8de5dc129eae0f3e1/resize/1320/f/jpg/assets/multimedia/imagenes/2022/05/21/16531435986415.jpg"
                         },
                         new Actor()
                         {
@@ -64,7 +64,7 @@ namespace TicketMovie.Data
                         {
                             Name = "Actor 3",
                             Bio = "Bio of Actor",
-                            ProfilePictureUrl=""
+                            ProfilePictureUrl="https://www.mrdustbin.com/en/wp-content/uploads/2021/05/dwayne-johnson.jpg"
                         },
                     });
                     context.SaveChanges();

@@ -15,6 +15,7 @@ namespace TicketMovie.Models
         public string Name { get; set; }
         public string Discription { get; set; }
         public double Price { get; set; }
+        [Display(Name ="Image")]
         public string ImageUrl { get; set; }
         public DateTime StartDate { get; set; }
         public DateTime EndDate { get; set; }

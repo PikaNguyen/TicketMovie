@@ -15,10 +15,10 @@ namespace TicketMovie.Controllers
         {
             _context = context;
         }
-        public async Task<IActionResult> Index()
+        public IActionResult Index()
         {
-            var dataProducers = await _context.Actors.ToListAsync();
-            return View();
+            var dataProducers =  _context.Producers.ToList();
+            return View(dataProducers);
         }
     }
 }

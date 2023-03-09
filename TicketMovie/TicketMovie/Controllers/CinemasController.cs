@@ -17,8 +17,8 @@ namespace TicketMovie.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            var dataCinemas = await _context.Actors.ToListAsync();
-            return View();
+            var dataCinemas = await _context.Cinemas.ToListAsync();
+            return View(dataCinemas);
         }
     }
 }

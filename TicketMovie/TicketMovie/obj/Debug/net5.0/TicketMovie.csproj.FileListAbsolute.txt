@@ -71,3 +71,7 @@ D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\ref\TicketMovie.
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\TicketMovie.pdb
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\TicketMovie.genruntimeconfig.cache
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\Razor\Views\Actors\Index.cshtml.g.cs
+D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\Razor\Views\Producers\Index.cshtml.g.cs
+D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\Razor\Views\Producers\Producer.cshtml.g.cs
+D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\Razor\Views\Producers\Index11.cshtml.g.cs
+D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs

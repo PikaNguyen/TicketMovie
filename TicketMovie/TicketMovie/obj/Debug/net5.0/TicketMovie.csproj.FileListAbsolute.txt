@@ -76,3 +76,4 @@ D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\Razor\Views\Prod
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\Razor\Views\Producers\Index11.cshtml.g.cs
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\Razor\Views\Cinemas\Index.cshtml.g.cs
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\Razor\Views\Actors\Create.cshtml.g.cs

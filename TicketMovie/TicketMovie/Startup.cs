@@ -10,6 +10,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using TicketMovie.Data;
+using TicketMovie.Data.Services;
 
 namespace TicketMovie
 {
@@ -30,7 +31,8 @@ namespace TicketMovie
               options.UseSqlServer(
                   Configuration.GetConnectionString("DefaultConnection")));
 
-
+            //Service configuration
+            services.AddScoped<IActorsService, ActorsService>();
 
             services.AddControllersWithViews();
         }

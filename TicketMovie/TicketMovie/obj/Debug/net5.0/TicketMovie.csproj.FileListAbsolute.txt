@@ -5,7 +5,6 @@ D:\Asp git\TicketMovie\TicketMovie\TicketMovie\bin\Debug\net5.0\TicketMovie.deps
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\bin\Debug\net5.0\TicketMovie.runtimeconfig.json
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\bin\Debug\net5.0\TicketMovie.runtimeconfig.dev.json
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\bin\Debug\net5.0\TicketMovie.dll
-D:\Asp git\TicketMovie\TicketMovie\TicketMovie\bin\Debug\net5.0\ref\TicketMovie.dll
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\bin\Debug\net5.0\TicketMovie.pdb
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\bin\Debug\net5.0\TicketMovie.Views.dll
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\bin\Debug\net5.0\TicketMovie.Views.pdb
@@ -50,7 +49,6 @@ D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\TicketMovie.MvcA
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\TicketMovie.RazorAssemblyInfo.cache
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\TicketMovie.RazorAssemblyInfo.cs
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\staticwebassets\TicketMovie.StaticWebAssets.Manifest.cache
-D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\staticwebassets\TicketMovie.StaticWebAssets.xml
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\scopedcss\bundle\TicketMovie.styles.css
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\TicketMovie.TagHelpers.input.cache
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\TicketMovie.TagHelpers.output.cache
@@ -80,3 +78,5 @@ D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\Razor\Views\Acto
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\Razor\Views\Actors\Details.cshtml.g.cs
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\Razor\Views\Actors\Edit.cshtml.g.cs
 D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\Razor\Views\Actors\Delete.cshtml.g.cs
+D:\Asp git\TicketMovie\TicketMovie\TicketMovie\bin\Debug\net5.0\ref\TicketMovie.dll
+D:\Asp git\TicketMovie\TicketMovie\TicketMovie\obj\Debug\net5.0\staticwebassets\TicketMovie.StaticWebAssets.xml
